@@ -1,7 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:d9914a,50:c9707a,100:7f8fc0&text=Cabifinde&fontColor=efebe4&fontSize=42&fontAlignY=36&desc=La%20gu%C3%ADa%20de%20Cabimas%2C%20hecha%20a%20medida&descSize=17&descAlignY=58" alt="Cabifinde" width="100%"></p>
 
 <p align="center"><a href="https://cabifinde.com"><img src="https://img.shields.io/badge/Ver_la_web-cabifinde.com-d9914a?style=for-the-badge" alt="Ver la web"></a></p>
-<p align="center"><img src="https://img.shields.io/badge/WordPress-151a21?style=flat-square" alt="WordPress"> <img src="https://img.shields.io/badge/PHP-151a21?style=flat-square" alt="PHP"> <img src="https://img.shields.io/badge/Telegram_Bot-151a21?style=flat-square" alt="Telegram Bot"> <img src="https://img.shields.io/badge/SEO_técnico-151a21?style=flat-square" alt="SEO técnico"> <img src="https://img.shields.io/badge/Schema_JSON--LD-151a21?style=flat-square" alt="Schema JSON--LD"></p>
+<p align="center"><img src="https://img.shields.io/badge/WordPress-151a21?style=flat-square" alt="WordPress"> <img src="https://img.shields.io/badge/PHP-151a21?style=flat-square" alt="PHP"> <img src="https://img.shields.io/badge/Telegram_Bot-151a21?style=flat-square" alt="Telegram Bot"> <img src="https://img.shields.io/badge/SEO_técnico-151a21?style=flat-square" alt="SEO técnico"> <img src="https://img.shields.io/badge/Schema_JSON--LD-151a21?style=flat-square" alt="Schema JSON-LD"></p>
 
 <p align="center">
   <img src="img/escritorio.jpg" alt="Cabifinde en escritorio" width="72%">
